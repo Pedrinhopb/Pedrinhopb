@@ -26,13 +26,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ppvof/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-paulo-de-vasconcelos-8ab948279/)
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrinhopb&show_icons=true&theme=highcontrast)
-
-<!-- GIF -->
-<p align="left">
-  [<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp6aWUzdjRicW83a2F0dm84N3IxOGExazV2cGc4N3BndWZhcmdmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQDdDwdZpfYRn1MsJy/giphy.gif" alt="Imagem">]
-</p>
+<div div style="display: inline_block" align="center">
+  <a href="https://github.com/Pedrinhopb">
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedrinhopb&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedrinhopb&layout=compact&langs_count=7&theme=highcontrast&count_private=true"/>
+  </a>
+</div>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
